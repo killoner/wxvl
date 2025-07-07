@@ -15831,5 +15831,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531729&idx=2&sn=670e1a9a5783709fe9c44ad380ee9354": "通过带有 chroot 选项的 sudo 二进制文件将权限提升至 root CVE-2025-32463",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531729&idx=3&sn=2bb8fcf23ab31e057c5ee62d76ef30f2": "Erlang∕OTP SSH 中的未经身份验证的远程代码执行",
     "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491712&idx=1&sn=e2d5206def5474dacc15a2dd6c6969cc": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年07月04~06日",
-    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463225&idx=1&sn=9e7ac9b4c67a54c61ca683961a676c1a": "信息安全漏洞月报（2025年6月）"
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463225&idx=1&sn=9e7ac9b4c67a54c61ca683961a676c1a": "信息安全漏洞月报（2025年6月）",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096374&idx=2&sn=0db1104436ef7e1f9d8ce2148c89f9f2": "Next.js 允许攻击者通过缓存中毒触发 DoS漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486235&idx=1&sn=d6ca3209142d51b045d6529d1f556d48": "某供应商运维安全管理系统存在命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324554&idx=1&sn=bdeb8779451111167a89a91cea7654df": "Redis被曝三大严重安全漏洞，PoC代码已公开",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490446&idx=1&sn=726652b172d33357d42447129dcee18a": "【7∕7特辑】今日捕获大量漏洞！",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324515&idx=1&sn=e502828a52cb7663487c30f07c064387": "联想Windows目录可写文件漏洞可隐秘绕过AppLocker防护"
 }
