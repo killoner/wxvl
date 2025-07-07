@@ -15825,5 +15825,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489906&idx=3&sn=dcaf44d993e23b254f5a23de058b4a9b": "逆天提权漏洞，CVE-2025-32463，嘎嘎好使，速来复现",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611281&idx=2&sn=0b13a7fa48b99eb7891098356636b07b": "联想Windows目录可写文件漏洞可隐秘绕过AppLocker防护",
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497815&idx=1&sn=2e590228585b24abbfe047e87ea21252": "赏金15000美元的 RCE",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493630&idx=1&sn=45861fae4709fa33d3f7e3009fc75254": "漏洞预警 | Wing FTP服务器远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493630&idx=1&sn=45861fae4709fa33d3f7e3009fc75254": "漏洞预警 | Wing FTP服务器远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496107&idx=1&sn=a0eb976580ef5924a6411c6055618526": "CNVD漏洞周报2025年第25期",
+    "https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247485878&idx=1&sn=a4d4e1f8a75fc5cd7a0ad2c856557a55": "WordPress Forminator插件漏洞暴露60万网站面临完全接管风险",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531729&idx=2&sn=670e1a9a5783709fe9c44ad380ee9354": "通过带有 chroot 选项的 sudo 二进制文件将权限提升至 root CVE-2025-32463",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531729&idx=3&sn=2bb8fcf23ab31e057c5ee62d76ef30f2": "Erlang∕OTP SSH 中的未经身份验证的远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491712&idx=1&sn=e2d5206def5474dacc15a2dd6c6969cc": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年07月04~06日"
 }
