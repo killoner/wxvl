@@ -15841,5 +15841,12 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494699&idx=1&sn=69f6bcf949f34426d14e3cb19a6128ed": "Fiora：漏洞PoC框架Nuclei的图形版。快捷搜索PoC、一键运行Nuclei。可作为独立程序运行也可burp插件使用。",
     "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500933&idx=1&sn=c35687f22a88f65f599bf8b86cd0a51f": "深信服运维安全管理系统RCE漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493216&idx=1&sn=cf4bb7dfb28d39e2e378a50a5bc917ed": "告别零散工具！一款BurpSuite全能漏洞探测插件v1.4.6更新|插件分享",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4NDk4MTk5OA==&mid=2247485596&idx=1&sn=7bc13ba63d58c7e30f858f1d985f6a56": "必看---当前国护0day漏洞权威汇总"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDk4MTk5OA==&mid=2247485596&idx=1&sn=7bc13ba63d58c7e30f858f1d985f6a56": "必看---当前国护0day漏洞权威汇总",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247489664&idx=1&sn=df572e4cbef72a5ed6c4de877b52b935": "【SRC】某选课小程序任意用户登录漏洞深度剖析",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521663&idx=1&sn=1a7aa58916d280391fd2526ffe2c169f": "护网情报 ｜汉王e脸通综合管理平台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492859&idx=1&sn=66a45e4f38874a4b0c0e0d9f5234dfe9": "【已复现】Redis hyperloglog 远程代码执行漏洞(CVE-2025-32023)",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503557&idx=1&sn=b46dcfec1d66e735b4c53d7ae9633c0c": "安全热点周报：超过 1,200 个 Citrix 服务器未针对关键身份验证绕过漏洞进行修补",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247492761&idx=1&sn=74dceba6e96dc5542167e58b17b22472": "分享Jeecg-boot中的Nday漏洞汇总打法",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500084&idx=1&sn=38b270f2be6c4a876c14b613950e4899": "CNVD漏洞周报2025年第25期",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497165&idx=3&sn=8535a3b35554e87807cf2bf53a87f4bb": "夜鹰APT组织利用微软Exchange漏洞攻击国内军工与科技领域"
 }
