@@ -15848,5 +15848,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503557&idx=1&sn=b46dcfec1d66e735b4c53d7ae9633c0c": "安全热点周报：超过 1,200 个 Citrix 服务器未针对关键身份验证绕过漏洞进行修补",
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247492761&idx=1&sn=74dceba6e96dc5542167e58b17b22472": "分享Jeecg-boot中的Nday漏洞汇总打法",
     "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500084&idx=1&sn=38b270f2be6c4a876c14b613950e4899": "CNVD漏洞周报2025年第25期",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497165&idx=3&sn=8535a3b35554e87807cf2bf53a87f4bb": "夜鹰APT组织利用微软Exchange漏洞攻击国内军工与科技领域"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497165&idx=3&sn=8535a3b35554e87807cf2bf53a87f4bb": "夜鹰APT组织利用微软Exchange漏洞攻击国内军工与科技领域",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496107&idx=2&sn=71bebd5f56bafd09a7b0d3e2b1d3c056": "上周关注度较高的产品安全漏洞(20250630-20250706)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137680&idx=2&sn=44072684925a2b63f6aade28880606fd": "最高奖金可达15万元！2025年人工智能大模型产品漏洞众测活动启动；美国防部因网络安全隐患切断部分NOAA卫星数据连接 | 牛览",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596945&idx=3&sn=ce5a42d0da3011db31e51a6b4c67cb24": "Redis曝高危漏洞，认证客户端可致服务中断",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NjYyMzUyNg==&mid=2247492274&idx=1&sn=f8d3d7c6b6fffa07094274556eb1cbf1": "【已复现】Redis hyperloglog 远程代码执行漏洞(CVE-2025-32023)安全风险通告"
 }
