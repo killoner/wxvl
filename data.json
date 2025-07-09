@@ -15882,5 +15882,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY2MjU2Mg==&mid=2247483857&idx=1&sn=93db8bf128d335497ee7d8c989f635a3": "平平无奇的越权漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503452&idx=1&sn=2a1a3a5acd88ac7d56b6249129a61d52": "【成功复现】Pichome路径遍历漏洞 (CVE-2025-1743)",
     "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248195&idx=1&sn=0e8285716274d1f15c4ca606f908a2e9": "遭受惨烈事故后，这家公司将投入超36亿元加强数据安全建设 | Linux启动漏洞可绕过现代Linux系统的安全启动保护",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494163&idx=1&sn=ef3a94f06cd0f1e50ff400b0fd0c78ba": "【已复现】Redis HyperLogLog远程代码执行漏洞(CVE-2025-32023)"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494163&idx=1&sn=ef3a94f06cd0f1e50ff400b0fd0c78ba": "【已复现】Redis HyperLogLog远程代码执行漏洞(CVE-2025-32023)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxOTUyOTc0NQ==&mid=2247493555&idx=1&sn=4df91360f16f4d814717187b7abce6f8": "蜜罐捕获一个自动化漏洞攻击的机器人程序",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070569&idx=1&sn=6d82b7ddc4c8cc451bc8ab54f4420e78": "【安全圈】Zoom Windows 客户端曝出中危漏洞，可能被用于发起拒绝服务（DoS）攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492081&idx=1&sn=894a554f87721dca1ce2c4cbcb622ae2": "信呼OA uploawAction.php SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494180&idx=2&sn=842aa35155a1456c7ffced77317fd433": "【已复现】Windows Update Service 本地权限提升漏洞(CVE-2025-48799)",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070555&idx=4&sn=a0045b414dc83b5ccab5d88ec4c10558": "【安全圈】《使命召唤：二战》曝严重漏洞，PC玩家遭远程黑客攻击，游戏被紧急下线"
 }
