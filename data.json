@@ -15876,5 +15876,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490389&idx=1&sn=a4b381c2318fb8f2925676474ebc9324": "【高危漏洞预警】Redis hyperloglog远程代码执行漏洞CVE-2025-32023",
     "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516963&idx=1&sn=ee00aff35e8bf7a7f1ded9b69d562f9e": "Struts2全版本漏洞检测工具 -- Struts2VulsScanTools（7月5日更新）",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501285&idx=2&sn=1d1391c95628f8b6e92b9e233847c3ba": "【漏洞通告】Git子模块路径回车符导致远程代码执行漏洞 (CVE-2025-48384)",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493665&idx=2&sn=b13a0fe888ba0def887c35071df5aa2b": "漏洞预警 | 深信服运维安全管理系统远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493665&idx=2&sn=b13a0fe888ba0def887c35071df5aa2b": "漏洞预警 | 深信服运维安全管理系统远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493665&idx=1&sn=48ab394f77cef01caa709b6988d5a145": "漏洞预警 | PHPStudy后门漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501285&idx=3&sn=b6133575e41cd87ecbd05db8fb74fff0": "【漏洞通告】微软7月多个安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY2MjU2Mg==&mid=2247483857&idx=1&sn=93db8bf128d335497ee7d8c989f635a3": "平平无奇的越权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503452&idx=1&sn=2a1a3a5acd88ac7d56b6249129a61d52": "【成功复现】Pichome路径遍历漏洞 (CVE-2025-1743)",
+    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248195&idx=1&sn=0e8285716274d1f15c4ca606f908a2e9": "遭受惨烈事故后，这家公司将投入超36亿元加强数据安全建设 | Linux启动漏洞可绕过现代Linux系统的安全启动保护",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494163&idx=1&sn=ef3a94f06cd0f1e50ff400b0fd0c78ba": "【已复现】Redis HyperLogLog远程代码执行漏洞(CVE-2025-32023)"
 }
