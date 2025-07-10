@@ -15892,5 +15892,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492149&idx=1&sn=0049b56198aaeb2be7adf60b3a8a13f4": "某制造业公司：30 分钟速通 2025 高危漏洞排查 + 推修实战",
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795670&idx=2&sn=5a43c62fd78188c6e942755268c937ef": "微软修复 Windows 和服务器中可蠕虫的远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489945&idx=7&sn=88d1aad32efce95a42eff434157efe29": "逆天提权漏洞，CVE-2025-32463，嘎嘎好使，速来复现",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611380&idx=3&sn=fbba26992af78ca4efce43478a5d8c65": "Redis hyperloglog 远程代码执行漏洞(CVE-2025-32023)"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611380&idx=3&sn=fbba26992af78ca4efce43478a5d8c65": "Redis hyperloglog 远程代码执行漏洞(CVE-2025-32023)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2Mjc3NTMxOA==&mid=2247517276&idx=1&sn=9b8a010e8e6aa70f7ddb9d4bf58ba335": "漏洞通告｜Git 远程代码执行漏洞（CVE-2025-48384)",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484507&idx=1&sn=bdd96d70bb0af4746b561264f05e1d2c": "【已复现】泛微 E-cology9 SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491720&idx=1&sn=18f6d4ace8786e4d6c4f0ed0caf3d0b8": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年07月09日",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503463&idx=1&sn=6ef0546654e72e110fb0e22dc6c2a065": "【成功复现】LlamaIndex SQL注入漏洞(CVE-2025-1750)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484909&idx=1&sn=f7c17bd3c58d6e06afe0eee7178e533f": "【复现】泛微Ecology前台SQL注入漏洞风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492872&idx=1&sn=90db05effb93a6cd8efb63c5fa4dfa0d": "【已复现】泛微e-cology 前台SQL注入漏洞"
 }
