@@ -15898,5 +15898,9 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491720&idx=1&sn=18f6d4ace8786e4d6c4f0ed0caf3d0b8": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年07月09日",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503463&idx=1&sn=6ef0546654e72e110fb0e22dc6c2a065": "【成功复现】LlamaIndex SQL注入漏洞(CVE-2025-1750)",
     "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484909&idx=1&sn=f7c17bd3c58d6e06afe0eee7178e533f": "【复现】泛微Ecology前台SQL注入漏洞风险通告",
-    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492872&idx=1&sn=90db05effb93a6cd8efb63c5fa4dfa0d": "【已复现】泛微e-cology 前台SQL注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492872&idx=1&sn=90db05effb93a6cd8efb63c5fa4dfa0d": "【已复现】泛微e-cology 前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503573&idx=1&sn=23659d5f1d53b4d6927caad698660884": "微软7月补丁日多个产品安全漏洞风险通告：12个紧急漏洞、12个重要漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512504&idx=1&sn=0443e083b652bc8d4300fa3968d26870": "微软2025年7月补丁日重点漏洞安全预警",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486434&idx=1&sn=7915ee874f143a14d82291212af62ca0": "Web与全版本服务漏洞检测工具 - z0scan",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247547132&idx=1&sn=cd484270f0cd9ed5dc17fdeafb2e76dd": "微软紧急修复高危蠕虫级RCE漏洞，威胁全网Windows系统"
 }
