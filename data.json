@@ -15923,5 +15923,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908542&idx=1&sn=83623032b333f88591df7b0a6e59b3b9": "十年博弈 - ViewState RCE的前世今生",
     "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491738&idx=1&sn=86ea41746ad2eb27f67c42848d53149a": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年07月10日",
     "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247511822&idx=3&sn=a8baaa8e70b7ce392afd82068e61c438": "PerfektBlue蓝牙漏洞恐波及数百万设备：已验证奔驰、大众、斯柯达汽车受影响",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3NTY0MjIwNg==&mid=2247486144&idx=1&sn=a99eaf792c4181813135e0507644c0b6": "麦当劳招聘平台安全漏洞致 6400 万份求职申请信息暴露"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NTY0MjIwNg==&mid=2247486144&idx=1&sn=a99eaf792c4181813135e0507644c0b6": "麦当劳招聘平台安全漏洞致 6400 万份求职申请信息暴露",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492100&idx=1&sn=2ac32dbe5ae3536bf4f8ca17aa63441f": "龙采商城系统 auditing SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492877&idx=1&sn=f6c804a45992dbfc7e82c40884909de9": "【已复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞"
 }
