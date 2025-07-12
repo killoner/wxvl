@@ -15952,5 +15952,7 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247486752&idx=1&sn=3825e538392c96bc757dfef7a363f795": "某新版诈骗双端APP通讯录存在前台SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900919&idx=1&sn=1f4322c0e6cd6bc7effa9d36a0a183f2": "澳航600万用户数据泄露背后的“供应链攻击”与“人类漏洞”",
     "https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647690866&idx=1&sn=4a721e43a083294d91530414cbf72330": "0046.从图片上传到账户接管——真实渗透测试中上传、存储和 CORS 漏洞的串联",
-    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490470&idx=1&sn=76647e3cbc939582e3fa73101fc442f4": "【已复现】契约锁电子签章系统存在远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490470&idx=1&sn=76647e3cbc939582e3fa73101fc442f4": "【已复现】契约锁电子签章系统存在远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523555&idx=2&sn=04a84283c9d2100a95736c652525dcd8": "开源项目mcp-remote 中存在严重漏洞可导致RCE",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486552&idx=1&sn=41c4e4a40fd104f53e22f5a7143c88ad": "记一次企业src漏洞挖掘连爆七个漏洞！"
 }
