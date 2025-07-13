@@ -15974,5 +15974,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611404&idx=4&sn=f4ff1d606e1d6f8ff505f82837b16d16": "Struts2全版本漏洞检测工具更新！V19.68",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494231&idx=1&sn=108ce757a60b9c8454839dc15a6c7df4": "【已复现】Fortinet FortiWeb SQL注入漏洞(CVE-2025-25257)",
     "https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497439&idx=1&sn=346a6cf1bf2e154c590fd2471a245e0c": "Struts2全版本漏洞检测工具更新！V19.68",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492135&idx=1&sn=7bcedb196331e9addb1b70f3be0ea04e": "金蝶云星空 InOutDataService.GetImportOutData.common.kdsvc 远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492135&idx=1&sn=7bcedb196331e9addb1b70f3be0ea04e": "金蝶云星空 InOutDataService.GetImportOutData.common.kdsvc 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247515236&idx=1&sn=fc3c5c6dbf3b2cbc32405070170609d6": "2025某新版诈骗双端APP通讯录前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NTU5Mjg0Ng==&mid=2247492236&idx=1&sn=8d8564b4b92621d0ce1783198a801077": "手把手教你如何挖洞：CVE-2025-25257 Fortinet FortiWeb 匿名 SQL 注入漏洞动态调试实战",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503602&idx=2&sn=e1e4339c66bfeef7053ebf82a7b737eb": "【已复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞(QVD-2025-27432)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493135&idx=1&sn=306bed2b9378881be53a5e8817b5691b": "Forminator 插件漏洞使 WordPress 网站面临接管攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MTY3NzUwMQ==&mid=2247490628&idx=1&sn=08154901b772cc417b47d0eb49d166dd": "2025-7-12日漏洞情报汇总",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484920&idx=1&sn=adfe24d7cee65a50ea24cc4d8f7be624": "【漏洞复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞"
 }
