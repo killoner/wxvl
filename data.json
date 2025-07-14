@@ -15980,5 +15980,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503602&idx=2&sn=e1e4339c66bfeef7053ebf82a7b737eb": "【已复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞(QVD-2025-27432)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493135&idx=1&sn=306bed2b9378881be53a5e8817b5691b": "Forminator 插件漏洞使 WordPress 网站面临接管攻击",
     "https://mp.weixin.qq.com/s?__biz=Mzg3MTY3NzUwMQ==&mid=2247490628&idx=1&sn=08154901b772cc417b47d0eb49d166dd": "2025-7-12日漏洞情报汇总",
-    "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484920&idx=1&sn=adfe24d7cee65a50ea24cc4d8f7be624": "【漏洞复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484920&idx=1&sn=adfe24d7cee65a50ea24cc4d8f7be624": "【漏洞复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493700&idx=3&sn=56851215cf8e0bbdc548118a45078332": "漏洞预警 | ZKTime熵基智能考勤管理系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247483889&idx=1&sn=49db58752bf20b6e1a322dc5c9a9e614": "东胜物流软件GetDataListCA接口存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNDU5NTI4OQ==&mid=2247489437&idx=1&sn=1e4298f03de6ef16d2e8a61fd667f0ef": "网络安全周刊#7: Fortinet FortiWeb 严重SQL注入漏洞剖析",
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTIyOTA0OQ==&mid=2247485223&idx=1&sn=7cadef856d0360ed2983ea9bd473a955": "Solrs搜索&Shrio鉴权&Log4j日志&CVE历史漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652117105&idx=1&sn=a12c60fab95520633a959552231df442": "Apache HTTP Server 2.4.64发布，修复8个漏洞"
 }
