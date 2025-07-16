@@ -16032,5 +16032,7 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk1NzE0ODUyOA==&mid=2247492306&idx=1&sn=c92f48d0555e82759ea928557ad0efef": "施耐德EcoStruxure™ IT DataCenter Expert漏洞分析",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484509&idx=1&sn=058b3c0362ca6c339b1936b23669784e": "JS漏洞挖掘｜分享使用FindSomething联动的挖掘思路",
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247493293&idx=1&sn=3ab43e73480497e2f567c4f022e8754c": "【SRC】分享某单位众测中的一次高危——逻辑漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500108&idx=1&sn=5214bcced9f87f936538ab7e10b1fe4f": "CNVD漏洞周报2025年第26期"
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500108&idx=1&sn=5214bcced9f87f936538ab7e10b1fe4f": "CNVD漏洞周报2025年第26期",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523576&idx=2&sn=cae33dc0a4154ffe056c01f3975eb200": "ImageMagick存在栈缓冲溢出漏洞，可导致RCE",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494273&idx=1&sn=cfef3d7b85d52177a5027daf3e4fabf8": "【已复现】Linux Kernel AF_UNIX UAF漏洞(CVE-2025-38236)"
 }
