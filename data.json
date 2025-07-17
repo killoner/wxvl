@@ -16070,5 +16070,14 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3MTY3NzUwMQ==&mid=2247490661&idx=1&sn=bdb612384cfb0e926f9418a23abe4ea4": "2025-7-17日漏洞情报汇总",
     "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664245703&idx=2&sn=5b268c55fba13203ab8183247a139c63": "CNNVD | 关于Oracle多个安全漏洞的通报",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494304&idx=1&sn=24b77ad7adcfcdc3dbeddc75f3a8ce32": "独家 | 360联合清华大学发布全球首份智能体安全报告，曝光20+漏洞！",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597312&idx=2&sn=45995d7633ae08c6ed2c67558e2810f8": "安卓旧系统 OTA 包分析与漏洞提权适配"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597312&idx=2&sn=45995d7633ae08c6ed2c67558e2810f8": "安卓旧系统 OTA 包分析与漏洞提权适配",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247581312&idx=1&sn=16b534f5f8dc330cce051c4c5e419a78": "独家 | 360联合清华大学发布全球首份智能体安全报告，曝光20+漏洞！",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490488&idx=1&sn=ad59955ddfe083c98460da614db3e54e": "【风险通告】Oracle WebLogic Server存在未授权访问漏洞（CVE-2025-30762）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519526&idx=1&sn=37208f0ff625ea825f473f210671c887": "几个常见场景下的xss漏洞案例",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490488&idx=2&sn=6c76da8465450c3c79d79e472919de4f": "【风险通告】VMware多产品存在高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488062&idx=1&sn=459cb7ef4a17d8e49db48010e6c6badf": "漏洞预警 | Linux sudo本地提权漏洞（CVE-2025-32462、CVE-2025-32463）",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490163&idx=1&sn=b3f45daec1576c19d9cd94b0751a9bda": "记一次有趣的逻辑漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325085&idx=3&sn=3fdc985551c6f7ef9efd22161d1894bc": "Windows Server 2025黄金dMSA漏洞使攻击者永久获取访问权限",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523583&idx=1&sn=f3695d751d9189ce3ff6b61f71cc9942": "谷歌紧急修复已遭利用的 Chrome 0day",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486562&idx=1&sn=a00c80480f832a5f80b14fafdaa68a42": "代码审计-Java项目-组件RCE代码执行漏洞审计"
 }
