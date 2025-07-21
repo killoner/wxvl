@@ -16158,5 +16158,10 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597663&idx=1&sn=34418dc2e46f79efadfa931f71df0600": "CVE-2023-4069：Maglev图建立阶段的一个漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325214&idx=3&sn=da164a902b33bab2a35b77a492bae665": "7-Zip曝出两个可致内存损坏和拒绝服务的漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096406&idx=1&sn=37ee7dab851324ca4ecb1e2e32c41326": "Sophos Intercept X for Windows 支持任意代码执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4NjY3OTQ3NA==&mid=2247487079&idx=1&sn=0984778c1477c705ac5a212a760fff88": "挖掘特斯拉Model 3上价值1w美元的漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NjY3OTQ3NA==&mid=2247487079&idx=1&sn=0984778c1477c705ac5a212a760fff88": "挖掘特斯拉Model 3上价值1w美元的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484302&idx=1&sn=42e0113f5e72ddc92f84826671500353": "【JAVA安全笔记】ClassPathXmlApplicationContext利用链 有参构造对象RCE打法",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555508&idx=2&sn=2243c70f76b94a4e6021c0c6f5f134bf": "【免费领】网安从业必备：Web漏洞检测及修复方案大全",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597663&idx=2&sn=7653176976d03c02843744f4f628e2ff": "7-Zip 曝双重漏洞：恶意文件可致系统崩溃，旧版本用户需紧急升级",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325214&idx=2&sn=751d846f97b99cfd0a5db9b0943b2a0c": "全球活跃利用中的微软SharePoint新型零日RCE攻击链",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096406&idx=2&sn=6471c0f86eb9b15e01ed8ae126826dee": "针对 NVIDIA AI 容器工具包关键漏洞的 PoC 发布"
 }
