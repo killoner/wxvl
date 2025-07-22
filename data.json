@@ -16169,5 +16169,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzAwMDQwNTE5MA==&mid=2650247783&idx=1&sn=60aa38bca36fb49150e537c868698a54": "原创 Paper | CitrixBleed 2 (CVE-2025-5777) 成因分析",
     "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486584&idx=1&sn=30086c0ff3368412fd572e153864ce3f": "【工具分享】web 日志分析工具 v3.0，支持漏洞日志检测类型包括：sql注入、命令执行、 代码执行、文件上传",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484960&idx=1&sn=ad43cab8df06b479660c3c71137eb642": "【漏洞复现】大华智能物联网综合管理平台 receive 命令执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493415&idx=1&sn=0a6c89c645cd322031111cb9ac6001f8": "若依系统前台+后台漏洞总结：RuoYi框架九大高危漏洞攻防指南|挖洞技巧"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493415&idx=1&sn=0a6c89c645cd322031111cb9ac6001f8": "若依系统前台+后台漏洞总结：RuoYi框架九大高危漏洞攻防指南|挖洞技巧",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496156&idx=2&sn=7858d5d8239a0dde15b3ef6f39a62ac1": "上周关注度较高的产品安全漏洞(20250714-20250720)",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493794&idx=1&sn=23458646401be62b9d63135180ab883d": "漏洞预警 | LaRecipe服务器端模板注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486588&idx=1&sn=4c73c6313fbabb62e51901d399c7a8e6": "WAF绕过-漏洞利用篇-sql注入+文件上传-过狗",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzM2MjM0OQ==&mid=2247498076&idx=1&sn=acc7a4823d45f270ce926bf990ddb032": "【SRC实战】验证码漏洞"
 }
